@@ -1,0 +1,30 @@
+# Tengo Hambre Viajera
+
+> Recetas del mundo para cocinar en casa y lugares que merece la pena descubrir. Cada plato viene con su postal: de la cocina al viaje.
+
+Web en castellano. Cada ficha reúne una receta para cocinar en casa (raciones, tiempos, ingredientes con cantidades, lista de la compra y pasos) y un lugar que visitar, presentado como una postal. Las recetas se comprueban con fuentes oficiales y, si les falta algún dato, con una segunda fuente citada en la ficha. Las imágenes son ilustrativas.
+
+Continentes con platos: Europa. Próximamente: África, América, Asia, Oceanía.
+
+## Recetas
+
+- [Goxua](https://tengo-hambre-viajera.kevinvasquezav.com/europa/espana/euskadi/goxua/): dulce de Euskadi, España. El postre de Vitoria-Gasteiz que se come de abajo arriba: nata montada, bizcocho empapado en almíbar y crema pastelera con el azúcar quemado por encima. Lugar asociado: Plaza de la Virgen Blanca, Vitoria-Gasteiz.
+- [Patatas con chorizo](https://tengo-hambre-viajera.kevinvasquezav.com/europa/espana/euskadi/patatas-con-chorizo/): salado de Euskadi, España. El guiso de cuchara de Vitoria-Gasteiz: patatas rotas en cachelos, chorizo y un sofrito de ajo, cebolla y pimiento rojo que tiñe el caldo de rojo. Lugar asociado: Catedral de Santa María, Vitoria-Gasteiz.
+- [Pastel de nata](https://tengo-hambre-viajera.kevinvasquezav.com/europa/portugal/pastel-de-nata/): dulce de Portugal. Uno de los símbolos de la repostería portuguesa: hojaldre crujiente y una crema de yema, limón y canela que el horno a 250 °C deja con manchas tostadas. Lugar asociado: Torre de Belém, Lisboa.
+- [Bacalhau à Brás](https://tengo-hambre-viajera.kevinvasquezav.com/europa/portugal/bacalhau-a-bras/): salado de Portugal. Bacalao desmenuzado con cebolla, patata paja y huevo apenas cuajado: un plato de sartén de la cocina portuguesa que se termina con perejil y aceitunas negras. Lugar asociado: Praça do Comércio, Lisboa.
+
+## Lugares
+
+- [Plaza de la Virgen Blanca, Vitoria-Gasteiz](https://tengo-hambre-viajera.kevinvasquezav.com/europa/espana/euskadi/goxua/#sobre-este-lugar): Es el corazón de Vitoria-Gasteiz, a los pies del casco medieval. Quedó fuera de las murallas tras las ampliaciones de la ciudad del siglo XIII.
+- [Catedral de Santa María, Vitoria-Gasteiz](https://tengo-hambre-viajera.kevinvasquezav.com/europa/espana/euskadi/patatas-con-chorizo/#sobre-este-lugar): Es la catedral gótica de Vitoria-Gasteiz: un templo del siglo XIII con planta de cruz latina, un pórtico del siglo XIV y una torre de unos sesenta metros, la más alta de la ciudad.
+- [Torre de Belém, Lisboa](https://tengo-hambre-viajera.kevinvasquezav.com/europa/portugal/pastel-de-nata/#sobre-este-lugar): Patrimonio de la Humanidad de la UNESCO a orillas del Tajo, es el gran icono de un país que se hizo mirando al mar.
+- [Praça do Comércio, Lisboa](https://tengo-hambre-viajera.kevinvasquezav.com/europa/portugal/bacalhau-a-bras/#sobre-este-lugar): Es la gran plaza de la Baixa de Lisboa, frente al Tajo.
+
+## Países
+
+- [España](https://tengo-hambre-viajera.kevinvasquezav.com/europa/espana/)
+- [Portugal](https://tengo-hambre-viajera.kevinvasquezav.com/europa/portugal/)
+
+## Más
+
+- [Sobre el proyecto](https://tengo-hambre-viajera.kevinvasquezav.com/sobre-el-proyecto/): cómo se preparan y comprueban las recetas.

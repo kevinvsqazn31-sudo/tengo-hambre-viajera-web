@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /prueba/
+
+Sitemap: https://tengo-hambre-viajera.kevinvasquezav.com/sitemap.xml

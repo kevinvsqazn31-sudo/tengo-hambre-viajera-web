@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+5:"/_next/static/chunks/3cz0pw0mibk9c.js"
+6:I[37789,["$5"],"default"]
+7:I[41297,["$5"],"default"]
+b:I[97990,["$5"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97990,["$5"],"$f"]
+11:"MetadataBoundary"
+12:I[97990,["$5"],"$11"]
+13:I[39435,["$5"],"IconMark"]
+:HL["/_next/static/chunks/1bl5c7mhf9txn.css","style"]
+3:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[null,null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$3"}}]]
+4:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$3"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1bl5c7mhf9txn.css","precedence":"next"}]],["$","html",null,{"lang":"es","className":"Hwg4hq_variable GxBuFG_variable","children":["$","body",null,{"className":"lino min-h-dvh","children":["$","main",null,{"className":"mx-auto max-w-[1240px] space-y-14 px-5 py-16 sm:px-8","children":[["$","a",null,{"href":"/","className":"titulo text-[1.375rem] text-oliva no-underline","children":"Tengo Hambre Viajera"}],["$","div",null,{"className":"max-w-[40rem] space-y-6","children":[["$","h1",null,{"className":"titulo titulo-1","children":"Este plato no está en la mesa"}],["$","p",null,{"className":"medida text-[1.1875rem] text-tinta/85","children":"La dirección no existe o el destino todavía no se ha publicado. Vuelve a la portada y elige otro plato."}],["$","a",null,{"href":"/#recetas","className":"boton","children":"Ver las recetas"}]]}],["$","div",null,{"lang":"en","className":"max-w-[40rem] space-y-6 border-t border-oliva/15 pt-10","children":[["$","h2",null,{"className":"titulo titulo-2","children":"This dish is not on the table"}],["$","p",null,{"className":"medida text-[1.1875rem] text-tinta/85","children":"The address does not exist or the destination has not been published yet. Go back to the home page and choose another dish."}],["$","a",null,{"href":"/en/#recetas","className":"boton boton-secundario","children":"See the recipes"}]]}]]}]}]}]]}],"p":"$@2","v":null,"s":"$3"},"c":"$Q4"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Página no encontrada · Page not found | Tengo Hambre Viajera"}],["$","meta","1",{"name":"description","content":"Esta dirección no existe en Tengo Hambre Viajera. This address does not exist on Tengo Hambre Viajera."}],["$","link","2",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","meta","4",{"property":"og:title","content":"Página no encontrada · Page not found | Tengo Hambre Viajera"}],["$","meta","5",{"property":"og:description","content":"Esta dirección no existe en Tengo Hambre Viajera. This address does not exist on Tengo Hambre Viajera."}],["$","meta","6",{"property":"og:image","content":"http://localhost:3000/opengraph-image.png?opengraph-image.3b1ech7ae2qkc.png"}],["$","meta","7",{"property":"og:image:type","content":"image/png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"Tengo Hambre Viajera: ¿Adónde quieres viajar hoy?"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"Página no encontrada · Page not found | Tengo Hambre Viajera"}],["$","meta","13",{"name":"twitter:description","content":"Esta dirección no existe en Tengo Hambre Viajera. This address does not exist on Tengo Hambre Viajera."}],["$","meta","14",{"name":"twitter:image","content":"http://localhost:3000/opengraph-image.png?opengraph-image.3b1ech7ae2qkc.png"}],["$","meta","15",{"name":"twitter:image:alt","content":"Tengo Hambre Viajera: ¿Adónde quieres viajar hoy?"}],["$","meta","16",{"name":"twitter:image:type","content":"image/png"}],["$","meta","17",{"name":"twitter:image:width","content":"1200"}],["$","meta","18",{"name":"twitter:image:height","content":"630"}],["$","link","19",{"rel":"icon","href":"/favicon.ico?favicon.29xc1hx205jpm.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","20",{"rel":"icon","href":"/icon.svg?icon.0qhy8ft-c6e5m.svg","sizes":"any","type":"image/svg+xml"}],["$","link","21",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.2wejngvrfn21g.png","sizes":"180x180","type":"image/png"}],["$","$L13","22",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$3"}},"a":"$@15","u":"$@16","b":"ABlx5l1Ws6I-tiBtISWvD"}
+d:null
+3:300
+16:true
+3:C
+15:0
+8:"$undefined"
+2:"$undefined"
+14:"$undefined"
+e:"$undefined"
